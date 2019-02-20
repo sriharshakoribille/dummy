@@ -14470,15 +14470,3 @@ Time [s],Value,Parity Error,Framing Error
 5.011681,0xE0,,
 5.011768,0xF2,,
 5.011855,0x0C,,
-
-
-
-
-
-
-
-
-
-
-
-Testing data_2
